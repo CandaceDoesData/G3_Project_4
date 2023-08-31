@@ -1,4 +1,4 @@
-# G3_Project_4
+# Predicting Heart Disease
 
 ## Introduction:
 This project is focused on a published study for predicting heart disease events based on 11 clinical features. The presentation layer of this project uses Tableau to tell an interactive story about the data and the predictive models.
