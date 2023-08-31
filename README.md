@@ -35,7 +35,7 @@ This project is focused on a published study for predicting heart disease events
        
 •	Felipe Pinheiro  
 >•	Resting Feature Analysis
->>•	Active Feature Analysis  
+>•	Active Feature Analysis  
        
 •	Jessica Richter  
 >•	Constant Feature Analysis   
