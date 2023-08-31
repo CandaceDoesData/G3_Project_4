@@ -5,12 +5,12 @@ This project is focused on a published study for predicting heart disease events
 
 
 ### Technical Tools:
-•	Tableau
-•	Python Pandas
-•	Python TensorFlow
-•	Keras Tuner
-•	K-Nearest Neighbors
-•	Artificial Neural Network
+•	Tableau  
+•	Python Pandas  
+•	Python TensorFlow  
+•	Keras Tuner  
+•	K-Nearest Neighbors  
+•	Artificial Neural Network  
 
 
 ### Tableau Dashboard:
@@ -18,27 +18,27 @@ This project is focused on a published study for predicting heart disease events
 
 
 ### Data Source:
-•	Kaggle web site - https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+•	Kaggle web site - https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction  
 •	File name – heart.csv
 
 
 ### Group Members:
-•	Brenton Bethel
-    •	K-Nearest Neighbors Model
-    •	Model Analysis
-•	Candace Stingley
-    •	Tableau Dashboard
-    •	GitHub Repository
-    •	Feature Importance
-    •	Constant Feature Analysis
-•	Felipe Pinheiro
-    •	Resting Feature Analysis
-    •	Active Feature Analysis
-•	Jessica Richter
-    •	Constant Feature Analysis 
-    •	Resting Feature Analysis 
-    •	Active Feature Analysis
-•	Mark Meinhardt
-    •	Artificial Neural Network Model
-    •	Project Proposal
-    •	Constant Feature Analysis
+•	Brenton Bethel  
+    •	K-Nearest Neighbors Model  
+    •	Model Analysis  
+•	Candace Stingley  
+    •	Tableau Dashboard  
+    •	GitHub Repository  
+    •	Feature Importance  
+    •	Constant Feature Analysis  
+•	Felipe Pinheiro  
+    •	Resting Feature Analysis  
+    •	Active Feature Analysis  
+•	Jessica Richter  
+    •	Constant Feature Analysis   
+    •	Resting Feature Analysis   
+    •	Active Feature Analysis  
+•	Mark Meinhardt  
+    •	Artificial Neural Network Model  
+    •	Project Proposal  
+    •	Constant Feature Analysis  
