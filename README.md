@@ -24,10 +24,10 @@ This project is focused on a published study for predicting heart disease events
 
 ### Group Members:
 •	Brenton Bethel  
-    •	K-Nearest Neighbors Model  
-    •	Model Analysis  
+>>•	K-Nearest Neighbors Model  
+>>•	Model Analysis  
 •	Candace Stingley  
-    •	Tableau Dashboard  
+>>•	Tableau Dashboard  
     •	GitHub Repository  
     •	Feature Importance  
     •	Constant Feature Analysis  
