@@ -9,8 +9,9 @@ This project is focused on a published study for predicting heart disease events
 •	Python Pandas  
 •	Python TensorFlow  
 •	Keras Tuner  
+•	Artificial Neural Network
 •	K-Nearest Neighbors  
-•	Artificial Neural Network  
+  
 
 
 ### Tableau Dashboard:
