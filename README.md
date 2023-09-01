@@ -6,13 +6,13 @@ This project is focused on a published study for predicting heart disease events
 
 ### Technical Tools:
 •	Tableau  
+•	Canva  
 •	Python Pandas  
 •	Python TensorFlow  
 •	Keras Tuner  
 •	Artificial Neural Network  
 •	K-Nearest Neighbors  
   
-
 
 ### Tableau Dashboard:
 •	https://public.tableau.com/views/PredictingHeartDisease_16935030359720/TitlePage?:language=en-US&:display_count=n&:origin=viz_share_link
